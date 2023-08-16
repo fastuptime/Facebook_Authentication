@@ -1,0 +1,15 @@
+{
+  id: '1026680758530922',
+  username: undefined,
+  displayName: 'Can Kaya',
+  name: {
+    familyName: undefined,
+    givenName: undefined,
+    middleName: undefined
+  },
+  gender: undefined,
+  profileUrl: undefined,
+  provider: 'facebook',
+  _raw: '{"name":"Can Kaya","id":"1026680758530922"}',
+  _json: { name: 'Can Kaya', id: '1026680758530922' }
+}
