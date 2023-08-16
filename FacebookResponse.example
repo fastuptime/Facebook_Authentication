@@ -1,15 +1,22 @@
 {
-  id: '1026680758530922',
+  id: '1026688868530111',
   username: undefined,
   displayName: 'Can Kaya',
-  name: {
-    familyName: undefined,
-    givenName: undefined,
-    middleName: undefined
-  },
+  name: { familyName: 'Kaya', givenName: 'Caner', middleName: undefined },
   gender: undefined,
   profileUrl: undefined,
+  photos: [
+    {
+      value: 'https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1026688868530111&height=50&width=50&ext=1694807779&hash=AeQzA4gFgVGOCTeJu0w'
+    }
+  ],
   provider: 'facebook',
-  _raw: '{"name":"Can Kaya","id":"1026680758530922"}',
-  _json: { name: 'Can Kaya', id: '1026680758530922' }
+  _raw: '{"id":"1026688868530111","name":"Can Kaya","picture":{"data":{"height":50,"is_silhouette":false,"url":"https:\\/\\/platform-lookaside.fbsbx.com\\/platform\\/profilepic\\/?asid=1026688868530111&height=50&width=50&ext=1694807779&hash=AeQzA4gFgVGOCTeJu0w","width":50}},"first_name":"Can","last_name":"Kaya"}',
+  _json: {
+    id: '1026688868530111',
+    name: 'Can Kaya',
+    picture: { data: [Object] },
+    first_name: 'Can',
+    last_name: 'Kaya'
+  }
 }
