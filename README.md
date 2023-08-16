@@ -43,7 +43,7 @@ FacebookAuthentication / Facebook Yetkilendirme NodeJs Meta
 - Download the project as Zip to your computer and unzip it.
 - Enter the folder you extracted from the zip and open a terminal to the location of that folder, then enter the following commands.
 `npm install`
-- Start the bot by entering the following command in Terminal
+- Start the by entering the following command in Terminal
 `node .`
 
 - https://developers.facebook.com/ Create an app here
