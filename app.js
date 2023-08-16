@@ -9,7 +9,8 @@ global.config = require('./config.js');
 passport.use(new FacebookStrategy({
     clientID: config.clientID,
     clientSecret: config.clientSecret,
-    callbackURL: config.callbackURL
+    callbackURL: config.callbackURL,
+    profileFields: ['id', 'displayName', 'photos', 'email', 'first_name', 'last_name'] //This
 },
     function (accessToken, refreshToken, profile, done) {
         //console.log(profile); // the data from facebook
